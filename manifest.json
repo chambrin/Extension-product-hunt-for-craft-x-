@@ -1,0 +1,10 @@
+{
+  "id": "product.hunt.craft",
+  "name": "product-hunt-craft",
+  "fileName": "product-hunt-craft",
+  "author" : "Chambrin.dev",
+  "author-email" : "contact@chambrin.dev",
+  "description" : "Product hunt in craft",
+  "api": "0.0.4",
+  "main": "index.html"
+}
